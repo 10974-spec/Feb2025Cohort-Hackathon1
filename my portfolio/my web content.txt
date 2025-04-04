@@ -1,0 +1,110 @@
+=============== About Me ===============
+I'm a Web Designer & Developer
+
+I'm a Nairobi, Kenya-based digital designer specializing in web design, UX/UI, and graphic development. With experience across Africa's growing tech industry and 7 years of professional practice, I combine global standards with local market understanding to deliver impactful digital solutions.
+
+=============== My Resume ===============
+.education
+Diploma in Graphic Design
+Nairobi Technical Training Institute
+2012-2013
+
+Certificate in Web Development
+Kenya Institute of Software Development
+2014-2015
+
+UI/UX Design Certification
+Moringa School
+2015-2016
+
+Advanced Web Technologies
+University of Nairobi
+2017-2018
+
+.experience
+Graphic Designer
+Picha Designs (Nairobi)
+2018-2019
+
+Front-End Developer
+Safaricom Digital Team
+2018-2022
+
+Full Stack Developer
+Andela Kenya
+2022-Present
+
+.personal-skills
+Front-End Development
+
+HTML (Advanced)
+
+CSS (Advanced)
+
+JavaScript (Advanced)
+
+React (Intermediate)
+
+Back-End Development
+
+PHP (Intermediate)
+
+Python (Django)
+
+MySQL
+
+Firebase
+
+=============== Services ===============
+Web Design for Kenyan Businesses
+
+Mobile-first designs optimized for local networks
+
+JamboPay and M-Pesa integration
+
+Localized SEO for Kenyan markets
+
+Branding & Print
+
+Logo design with African aesthetic
+
+Swahili typography services
+
+Print materials for local campaigns
+
+UI/UX for African Users
+
+Designs optimized for feature phones
+
+Mobile money workflow integration
+
+Local language interface options
+
+=============== Portfolio ===============
+E-commerce Platform
+For Maasai Market artisans
+
+County Government Portal
+Nakuru County website redesign
+
+Agricultural App
+FarmConnect - Connecting smallholder farmers
+
+=============== Testimonials ===============
+Njeri Wanjiru
+Nairobi Tech Hub
+"Understood our need for a mobile-first solution better than any international firm."
+
+James Omondi
+Farmers Cooperative
+"The Swahili interface options doubled our user engagement."
+
+=============== Contact Me ===============
+E-mail
+emmanuel@kenyandev.com
+
+Whatsapp
++254 711 234 567
+
+Location
+Nairobi, Kenya
